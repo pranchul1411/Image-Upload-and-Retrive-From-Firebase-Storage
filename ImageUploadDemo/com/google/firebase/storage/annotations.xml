@@ -1,0 +1,12 @@
+<root>
+    <item
+        name='com.google.firebase.storage.StorageReference com.google.android.gms.tasks.Task&lt;android.net.Uri&gt; getDownloadUrl()'>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='org.jetbrains.annotations.Blocking' />
+        <annotation name='org.jetbrains.annotations.NotNull' />
+        <annotation name='org.jetbrains.annotations.NonBlocking' />
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
